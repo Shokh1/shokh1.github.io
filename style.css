@@ -1,0 +1,37 @@
+body {
+text-align: center;
+	background-image: url(background.jpg);
+	
+}
+.film{
+	background-image: url(film.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+	background-attachment: fixed;
+}
+img{
+	width: 400px;
+	height: 600px;
+}
+h1{font-family: : Arial;
+	font-size: 28px;
+	color: white;
+}
+p{font-family: Arial;
+   font-size: 18px;
+   color :#a4c5fc;
+
+}
+.back
+{
+	font-size: 30px;
+
+}
+.movies {
+	color: red;
+	font-size: 30px;
+}
+.Git{
+	color: white;
+}
